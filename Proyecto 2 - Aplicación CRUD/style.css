@@ -1,0 +1,20 @@
+*{
+    color: #ffffff;
+}
+
+
+body{
+    background: #213449;
+}
+
+
+#Update{
+    display: none;
+}
+
+#logo { height:40px;
+width: auto;
+margin: 16px 0px 24px;
+@media screen and (min-width: 600px)
+{height: 70px;}
+}
